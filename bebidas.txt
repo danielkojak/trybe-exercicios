@@ -2,3 +2,7 @@ Cerveja
 Vinho
 Chá
 Café
+Coca-cola
+Suco
+Caipirinha
+Whisky
