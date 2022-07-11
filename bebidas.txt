@@ -1,0 +1,4 @@
+Cerveja
+Vinho
+Chá
+Café
