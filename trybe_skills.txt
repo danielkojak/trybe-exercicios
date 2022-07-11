@@ -5,3 +5,5 @@ O que eu vou aprender na Trybe:
 - Git
 -nova habilidade um
 - nova habilidade dois
+- Soft Skills
+- Javascript
